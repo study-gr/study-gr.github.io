@@ -1,0 +1,121 @@
+{
+  "chapter": "ch04",
+  "title": "Chapter 4 – Taxation of Group Risk (UK 2024/25) MCQs",
+  "questions": [
+    {
+      "id": 401,
+      "stem": "For 2024/25 (rUK), which band applies to taxable income between £50,271 and £125,140?",
+      "options": ["Basic rate 20%", "Higher rate 40%", "Additional rate 45%", "Starting rate 0%"],
+      "answer": 1,
+      "explanation": "Standard rUK bands: basic 20% to £50,270; higher 40% £50,271–£125,140; additional 45% above £125,140. Scotland differs."
+    },
+    {
+      "id": 402,
+      "stem": "Which statement best describes the usual employee tax position for employer-paid GLA premiums under a discretionary trust?",
+      "options": [
+        "Taxable benefit in kind reportable on P11D",
+        "Not a benefit in kind due to s307 ITEPA exemption for death benefits",
+        "Always taxed as savings income",
+        "Taxed only if benefit multiple exceeds 4× salary"
+      ],
+      "answer": 1,
+      "explanation": "Death-in-service meeting s307 ITEPA is generally not a BIK; typically no P11D/Class 1A on premiums."
+    },
+    {
+      "id": 403,
+      "stem": "Which is MOST accurate for Group Income Protection (GIP) tax treatment at claim stage?",
+      "options": [
+        "Payments are tax-free to the employee",
+        "Payments are typically taxed as earnings via PAYE; NICs may also apply depending on payroll setup",
+        "Payments are taxed as dividends",
+        "Payments are taxed only if the employee is a higher-rate taxpayer"
+      ],
+      "answer": 1,
+      "explanation": "GIP replaces income and is usually taxed as earnings during claim."
+    },
+    {
+      "id": 404,
+      "stem": "Employer provides personal life cover for one director outside any registered/relevant life or group trust. What is the LIKELY treatment of the premium?",
+      "options": [
+        "Not a benefit in kind (no reporting)",
+        "Taxable benefit in kind reportable on P11D; employer may owe Class 1A NIC",
+        "Taxed as savings income for the employer",
+        "Exempt under s307 automatically"
+      ],
+      "answer": 1,
+      "explanation": "Non-qualifying personal cover paid by the employer is typically a BIK (P11D/Class 1A) for the employee."
+    },
+    {
+      "id": 405,
+      "stem": "Which NIC rates apply in 2024/25?",
+      "options": [
+        "Employee main rate 8%; employer 13.8%",
+        "Employee main rate 12%; employer 15%",
+        "Employee main rate 10%; employer 12%",
+        "Employee main rate 6%; employer 13.8%"
+      ],
+      "answer": 0,
+      "explanation": "For 2024/25 rUK, employee Class 1 main rate 8% and employer Class 1 13.8% (rate references)."
+    },
+    {
+      "id": 406,
+      "stem": "A company pays £20,000 for a registered GLA scheme under discretionary trust. Which is MOST likely?",
+      "options": [
+        "Employees receive a P11D for their share of the premium",
+        "Employer can usually deduct the premium for corporation tax; no employee BIK under s307",
+        "Employees are charged at basic rate on the premium",
+        "Employer must pay Class 1A NIC on the premium"
+      ],
+      "answer": 1,
+      "explanation": "Premiums are generally deductible; death-in-service premiums are not a BIK (s307), so no P11D/Class 1A."
+    },
+    {
+      "id": 407,
+      "stem": "Which statement about GLA benefits is MOST accurate?",
+      "options": [
+        "Dependants’ lump-sum payments from a discretionary trust are usually outside the estate for IHT and not subject to income tax",
+        "Payments are taxed as employment income",
+        "Payments are taxed as savings interest",
+        "Payments are always subject to Class 1A NICs"
+      ],
+      "answer": 0,
+      "explanation": "Typical death-in-service via trust is outside the estate and not income-taxable for the recipient."
+    },
+    {
+      "id": 408,
+      "stem": "GIP claim example (basic-rate taxpayer). Salary £40,000; policy target 60% after offsets. Monthly target ≈ £2,000. If no other income remains after offsets, which is MOST accurate?",
+      "options": [
+        "Net ≈ £2,000 because GIP is tax-free",
+        "Net < £2,000 because PAYE tax (20%) and possibly 8% NICs reduce take-home",
+        "Net > £2,000 due to personal allowance",
+        "Net = £2,000 minus employer NICs"
+      ],
+      "answer": 1,
+      "explanation": "GIP payments are typically taxed as earnings; NICs may apply depending on payroll setup, so net is below the headline percentage."
+    },
+    {
+      "id": 409,
+      "stem": "Which scenario MOST likely triggers a P11D/Class 1A NIC charge?",
+      "options": [
+        "Registered GLA under discretionary trust",
+        "Relevant life policy meeting conditions",
+        "Employer-paid personal life policy for an individual (non-qualifying)",
+        "GIP premium for a standard employer policy"
+      ],
+      "answer": 2,
+      "explanation": "Personal life cover paid by the employer that is not within qualifying structures is typically a BIK."
+    },
+    {
+      "id": 410,
+      "stem": "Which statement about corporation tax is MOST accurate for group risk premiums?",
+      "options": [
+        "Generally deductible if incurred wholly and exclusively for the trade",
+        "Never deductible",
+        "Deductible only when employees are basic-rate taxpayers",
+        "Deductible only if there is a claim in that year"
+      ],
+      "answer": 0,
+      "explanation": "Premiums are commonly deductible on the normal ‘wholly and exclusively’ test."
+    }
+  ]
+}

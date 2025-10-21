@@ -1,0 +1,10 @@
+# Ignore everything by default
+*
+
+# Except this folder (your production build)
+!gr1/
+!gr1/**
+
+# Optional: keep gitignore itself and README visible
+!.gitignore
+!README.md

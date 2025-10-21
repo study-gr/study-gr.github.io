@@ -1,0 +1,43 @@
+{
+  "id": "sc02",
+  "title": "SME renews excepted GLA and reviews PHI definitions",
+  "vignette": "Bravo Plc operates an excepted GLA plan for senior staff and a PHI plan using an 'own occupation' definition for the first 2 years, then 'any suited'. The scheme has grown rapidly and is under pressure to control unit rates at renewal.",
+  "questions": [
+    {
+      "id": "sc02q1",
+      "stem": "Which is a key RISK specific to excepted GLA compared with registered schemes?",
+      "options": [
+        "Benefits are ALWAYS taxed as income",
+        "Potential for a charge if conditions for excepted status are breached",
+        "Excepted GLA cannot use trusts",
+        "Members must pay the premiums personally"
+      ],
+      "answer": 1,
+      "explanation": "Excepted GLA has specific HMRC requirements; breaching them can trigger a tax charge."
+    },
+    {
+      "id": "sc02q2",
+      "stem": "For PHI, tightening the definition from 'own occupation' to 'any occupation' MOST likely:",
+      "options": [
+        "Increases premiums",
+        "Reduces premiums",
+        "Has no impact",
+        "Is not permitted in group policies"
+      ],
+      "answer": 1,
+      "explanation": "Stricter definitions generally reduce claim likelihood and lower premiums."
+    },
+    {
+      "id": "sc02q3",
+      "stem": "From a broker/intermediary perspective at renewal, the MOST appropriate action is:",
+      "options": [
+        "Only present last year's rate; avoid alternative quotes",
+        "Market test the case; review claims experience, eligibility, and benefit design",
+        "Ignore any changes in headcount",
+        "Remove the master trust to simplify"
+      ],
+      "answer": 1,
+      "explanation": "An intermediary should test the market and review drivers (claims, eligibility, design)."
+    }
+  ]
+}

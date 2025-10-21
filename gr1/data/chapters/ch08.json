@@ -1,0 +1,66 @@
+{
+  "id": "ch08",
+  "title": "Group Risk Product Features and Taxation – Group Life Assurance (GLA)",
+  "tags": ["GLA", "benefit multiple", "tax", "trusts", "eligibility", "beneficiaries"],
+  "keyFacts": [
+    "Group Life Assurance (GLA) provides a lump-sum benefit on death in service, typically expressed as a multiple of salary (e.g. 3×, 4×).",
+    "Salary definitions vary – basic, pensionable, or total earnings. This choice directly affects premium and benefit cost.",
+    "Benefits are often paid via a discretionary trust for tax efficiency and quick payment to beneficiaries.",
+    "Premiums are usually treated as a business expense for the employer and not a taxable benefit in kind for the employee (check current-year HMRC rules).",
+    "Trustees/administrators decide on payouts using the employee’s nomination as guidance, not as a binding direction.",
+    "Market participants include specialist group risk insurers (often part of large composite insurers) and reinsurers who support underwriting and pricing capacity."
+  ],
+  "workedExamples": [
+    {
+      "title": "Calculating a lump-sum multiple of salary",
+      "steps": [
+        "Given: Basic salary £50,000; Benefit = 4× salary.",
+        "Lump-sum benefit = £200,000 payable to trustees (then onward to dependants under discretionary trust).",
+        "If the scheme used 'pensionable salary' of £48,000 instead, the benefit would be £192,000.",
+        "Definition of salary must match scheme rules and premium basis to ensure consistency."
+      ]
+    },
+    {
+      "title": "Identifying the beneficiary (trust-based approach)",
+      "steps": [
+        "Employee completes an expression-of-wish form naming preferred beneficiaries.",
+        "On death, trustees/administrators review dependants and circumstances before exercising discretion.",
+        "This approach avoids inheritance tax and accelerates payment versus waiting for probate."
+      ]
+    },
+    {
+      "title": "Market example – how GLA is priced",
+      "steps": [
+        "Pricing is based on total sum assured, member demographics (age, gender, occupation), and claims experience.",
+        "Schemes often receive a 'free cover limit' (FCL) below which no individual medical evidence is required.",
+        "Rates are quoted per £1,000 of sum assured; premiums are experience-rated for large schemes or unit-rated for smaller ones."
+      ]
+    }
+  ],
+  "perspectives": {
+    "employer": [
+      "Balances affordability with benefit competitiveness; may offer higher multiples for senior staff tiers.",
+      "Ensures scheme aligns with wider reward strategy and complies with trust/tax legislation.",
+      "Responsible for accurate data submission, scheme renewal, and governance documentation."
+    ],
+    "employee": [
+      "Receives cover without individual underwriting (within FCL).",
+      "Appreciates peace of mind for family financial protection; may be unaware of trust implications unless communicated clearly.",
+      "Should keep nominations updated following life events (marriage, divorce, etc.)."
+    ],
+    "intermediary": [
+      "Designs benefit structures, benchmarks market rates, and manages insurer tenders.",
+      "Advises employers on tax treatment, trust setup, and renewal governance.",
+      "Coordinates communication materials for employees and liaises with trustees/insurers on claims."
+    ],
+    "insurer": [
+      "Assesses risk data, sets unit rates, manages FCL and evidence-of-health limits, and pays claims promptly through trust structures.",
+      "Works with reinsurers for large sums assured or catastrophe exposures.",
+      "Tracks mortality trends and adjusts pricing assumptions accordingly."
+    ],
+    "largeCorporate": [
+      "May negotiate bespoke terms, higher free cover limits, or multi-country pooling for governance and cost efficiency.",
+      "Seeks integrated benefits administration platforms and analytics for workforce planning."
+    ]
+  }
+}

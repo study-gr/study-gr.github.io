@@ -1,0 +1,130 @@
+{
+  "chapter": "ch01",
+  "title": "Chapter 1 – UK Group Risk Market (Original MCQs)",
+  "questions": [
+    {
+      "id": 101,
+      "stem": "What is the primary advantage for an employer of insuring group risk benefits rather than self‑insuring them?",
+      "options": [
+        "It guarantees a lower premium than the expected cost of claims.",
+        "It transfers low‑frequency, high‑severity claim volatility to the insurer’s pool.",
+        "It removes all administrative responsibilities from the employer.",
+        "It ensures employees never need to provide medical evidence."
+      ],
+      "answer": 1,
+      "explanation": "Insurance pools catastrophic risk and smooths costs; admin responsibilities may remain and medical evidence can still be required above thresholds."
+    },
+    {
+      "id": 102,
+      "stem": "Which participant typically designs scheme benefits, tenders to insurers, and manages ongoing governance on behalf of the employer?",
+      "options": ["The reinsurer", "The intermediary/consultant", "The trustee bank", "The payroll provider"],
+      "answer": 1,
+      "explanation": "Intermediaries (brokers/consultants) advise on design, run market exercises, and support governance."
+    },
+    {
+      "id": 103,
+      "stem": "A large multinational wants oversight of several country schemes and potential dividends when claims are favourable. Which structure best matches this aim?",
+      "options": ["Unit‑rating", "Experience‑rating", "Multinational pooling", "Co‑insurance"],
+      "answer": 2,
+      "explanation": "Multinational pooling aggregates results across countries and may return a dividend if experience is good."
+    },
+    {
+      "id": 104,
+      "stem": "Which factor is MOST likely to improve a quoted unit rate for a GLA scheme at renewal?",
+      "options": [
+        "Worsening occupation risk mix",
+        "High claims versus expected in the last year",
+        "Accurate, timely membership and salary data",
+        "Increasing the benefit multiple from 3× to 4×"
+      ],
+      "answer": 2,
+      "explanation": "Clean data reduces uncertainty and back‑billing; adverse occupation mix and higher multiples tend to increase cost."
+    },
+    {
+      "id": 105,
+      "stem": "Which statement about self‑insurance is MOST accurate?",
+      "options": [
+        "It eliminates volatility for the employer.",
+        "It is illegal for employee benefits in the UK.",
+        "It can reduce cost if claims are favourable but exposes the employer to variability.",
+        "It guarantees faster claims payment than insured arrangements."
+      ],
+      "answer": 2,
+      "explanation": "Self‑insurance may save cost but retains volatility; insured arrangements transfer risk to the insurer’s pool."
+    },
+    {
+      "id": 106,
+      "stem": "Which best describes a hybrid approach used by some large corporates for group risk benefits?",
+      "options": [
+        "Fully pooled unit rate with no experience consideration",
+        "Captive or experience‑rated base with stop‑loss/catastrophe cover",
+        "Individual underwriting for every member below FCL",
+        "Co‑payment by employees at the point of claim"
+      ],
+      "answer": 1,
+      "explanation": "Hybrids often retain day‑to‑day risk (experience‑rated/captive) but buy stop‑loss to cap tail risk."
+    },
+    {
+      "id": 107,
+      "stem": "Why do intermediaries focus heavily on data quality (eligibility, salaries, joiners/leavers) when marketing a scheme?",
+      "options": [
+        "It reduces insurer reinsurance costs directly.",
+        "It ensures consistent unit rates across all insurers regardless of risk.",
+        "It improves underwriting confidence, speeds quotes, and supports sharper pricing.",
+        "It removes the need for any medical evidence."
+      ],
+      "answer": 2,
+      "explanation": "Good data improves risk assessment and quoting efficiency, often leading to better terms."
+    },
+    {
+      "id": 108,
+      "stem": "Which market condition would MOST likely push rates upward for group risk insurers?",
+      "options": ["Improving mortality trends", "Increased reinsurance capacity", "Claims inflation and worsening experience", "Higher data granularity from employers"],
+      "answer": 2,
+      "explanation": "Claims inflation and worse‑than‑expected experience put upward pressure on pricing."
+    },
+    {
+      "id": 109,
+      "stem": "Which stakeholder primarily seeks analytics and regular experience reviews to steer benefit design changes over time?",
+      "options": ["Employees", "Large corporate employers", "Trust beneficiaries", "Payroll providers"],
+      "answer": 1,
+      "explanation": "Large corporates often request MI dashboards and experience reviews to manage cost and design."
+    },
+    {
+      "id": 110,
+      "stem": "Which of the following is LEAST aligned with the role of a reinsurer in the group risk market?",
+      "options": [
+        "Providing catastrophe protection to insurers",
+        "Accepting facultative placements for very large sums assured",
+        "Running payroll and issuing trust documentation for employers",
+        "Supporting pricing stability and capacity"
+      ],
+      "answer": 2,
+      "explanation": "Payroll and trust paperwork sit with employer/admin; reinsurers support capacity, protection, and pricing stability."
+    },
+    {
+      "id": 111,
+      "stem": "A scheme moves from unit‑rated to experience‑rated terms. Which change is MOST consistent with this decision?",
+      "options": [
+        "Scheme has grown and now has credible claims history.",
+        "Employer wants to remove all exposure to volatility.",
+        "Market has reduced reinsurance capacity.",
+        "Employees are moving into lower‑risk occupations."
+      ],
+      "answer": 0,
+      "explanation": "Experience‑rating becomes viable as scheme size and credible history grow; it doesn’t remove volatility entirely."
+    },
+    {
+      "id": 112,
+      "stem": "Which communication is MOST important for employees under a GLA scheme?",
+      "options": [
+        "How to complete and update nomination/expressions of wish",
+        "How to underwrite above the FCL for other members",
+        "How to calculate reinsurer capital requirements",
+        "How to run a multinational pooling dividend calculation"
+      ],
+      "answer": 0,
+      "explanation": "Clear nomination guidance helps ensure trustees can make timely, appropriate decisions."
+    }
+  ]
+}

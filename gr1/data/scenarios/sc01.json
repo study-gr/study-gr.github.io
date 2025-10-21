@@ -1,0 +1,55 @@
+{
+  "id": "sc01",
+  "title": "Employer introduces GLA & PHI for higher earners",
+  "vignette": "Acme Ltd (UK) is introducing a Group Life Assurance (GLA) of 4x salary and a PHI scheme covering 60% of salary after 26 weeks' deferred period. Eligibility is offered to employees earning above £60,000 with 2+ years' service. The broker has proposed a Registered GLA with a master trust and a unit-rated PHI policy. HR is concerned about tax, underwriting, and communications.",
+  "questions": [
+    {
+      "id": "sc01q1",
+      "stem": "For the Registered GLA arrangement, which of the following is typically TRUE with respect to tax?",
+      "options": [
+        "Employer premiums are a taxable benefit in kind for employees",
+        "GLA benefits are paid free of income tax when within the Lifetime Allowance",
+        "Death benefits are usually written in trust, keeping them outside the estate",
+        "Employee contributions are required for Registered GLA to be valid"
+      ],
+      "answer": 2,
+      "explanation": "Registered GLA is typically written in trust so benefits are usually outside the estate (IHT efficient). Employer premiums are generally not a BiK; Lifetime Allowance limits were historically relevant—but current UK LTA rules have changed. Focus on the trust aspect and current exam wording."
+    },
+    {
+      "id": "sc01q2",
+      "stem": "For PHI (income protection), which factor MOST directly affects the unit rate quoted?",
+      "options": [
+        "Broker commission level only",
+        "Deferred period and benefit percentage",
+        "Number of dependants per employee",
+        "Whether GLA is registered vs excepted"
+      ],
+      "answer": 1,
+      "explanation": "PHI pricing is sensitive to benefit design (e.g., 60% of salary) and the deferred period (26 weeks)."
+    },
+    {
+      "id": "sc01q3",
+      "stem": "Which approach BEST addresses medical underwriting for high earners joining mid-year?",
+      "options": [
+        "Automatic cover level with free cover up to a set multiple; medical evidence above this",
+        "No medical underwriting permitted in group schemes",
+        "Exclude any condition disclosed in the last 5 years for all members",
+        "Require full medicals for everyone regardless of sum assured"
+      ],
+      "answer": 0,
+      "explanation": "Typical group practice: free cover level (FCL). Above FCL, evidence may be required."
+    },
+    {
+      "id": "sc01q4",
+      "stem": "From an employer vs. employee perspective, which communication is MOST appropriate?",
+      "options": [
+        "Employer: emphasise income tax on premiums; Employee: no need to inform beneficiaries",
+        "Employer: highlight total reward and risk transfer; Employee: how to nominate beneficiaries and claim steps",
+        "Employer: insist on employee contributions; Employee: opt-out is not possible",
+        "Employer: avoid discussing exclusions; Employee: assume any illness is covered"
+      ],
+      "answer": 1,
+      "explanation": "Employers focus on reward/risk transfer; employees need clarity on nominations and claims process."
+    }
+  ]
+}

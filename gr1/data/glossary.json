@@ -1,0 +1,12 @@
+[
+  { "term": "GLA (Group Life Assurance)", "def": "Employer-sponsored life cover paying a lump sum or dependants’ pension on death in service." },
+  { "term": "Group Income Protection (IP)", "def": "Provides income replacement for employees unable to work due to long-term illness or injury." },
+  { "term": "Group Critical Illness (CI)", "def": "Pays a lump sum if an employee is diagnosed with a specified critical illness, such as cancer or heart attack." },
+  { "term": "Free Cover Limit (FCL)", "def": "Maximum benefit per member before individual medical underwriting applies." },
+  { "term": "Actively at Work", "def": "Eligibility condition requiring a member to be actively performing their normal duties on a defined date." },
+  { "term": "Experience Rating", "def": "Pricing method using a scheme’s own claims experience rather than market-pooled data." },
+  { "term": "Unit Rate", "def": "Premium expressed as a rate per £1,000 sum assured (GLA) or per member (other group risks)." },
+  { "term": "Discretionary Trust", "def": "Trust allowing trustees to decide beneficiaries and payment distribution, used for tax efficiency in GLA." },
+  { "term": "Reinsurance", "def": "Transfer of part of an insurer’s risk to another insurer (the reinsurer) to manage exposure and capital requirements." },
+  { "term": "Multinational Pooling", "def": "Combining multiple country schemes for experience sharing, oversight, and potential cost savings." }
+]

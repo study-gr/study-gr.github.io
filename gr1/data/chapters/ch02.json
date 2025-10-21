@@ -1,0 +1,54 @@
+{
+  "id": "ch02",
+  "title": "State Benefits & Interaction with Employer Group Risk",
+  "tags": ["state benefits", "SSP", "SPP", "Statutory", "integration", "offsets", "coordination"],
+  "keyFacts": [
+    "State benefits (e.g., Statutory Sick Pay and wider welfare) provide baseline income protection; employer group risk benefits typically sit on top.",
+    "Group Income Protection (GIP) often coordinates with state benefits and employer sick pay via offsets or integration rules defined in the policy.",
+    "Clear policy wording is crucial: definitions of incapacity, deferred/waiting periods, and how other income (state, employer, pensions) affects the insured benefit.",
+    "Communication matters: employees often misunderstand how state payments, employer sick pay, and insured benefits interact during long‑term absence.",
+    "Employers may use GIP not just for payments, but also for rehabilitation, case management, and return‑to‑work support."
+  ],
+  "workedExamples": [
+    {
+      "title": "Coordinating GIP with employer sick pay and state pay (conceptual numbers)",
+      "steps": [
+        "Employee salary £40,000 (£3,333/month). Employer GIP promises 60% of salary after a 26‑week deferred period.",
+        "Weeks 1–26: Employer’s sick pay policy applies (e.g., full pay for 13 weeks, then half pay for 13 weeks) – not insured yet.",
+        "At week 26: GIP benefit starts. Policy reduces the insured payment by specified offsets (e.g., ongoing employer sick pay, certain state benefits).",
+        "If the net target is 60% of pre‑disability salary (i.e., ~£2,000/month), the insurer pays the difference after applying offsets per policy rules."
+      ]
+    },
+    {
+      "title": "Deferred period design",
+      "steps": [
+        "Common deferred periods: 13, 26, or 52 weeks; chosen to dovetail with employer sick pay and HR policies.",
+        "Shorter deferred periods raise premium; longer periods lower premium but increase employer self‑funding risk before claim onset.",
+        "Clarity on incapacity definition and evidence requirements helps reduce disputes at the end of the deferment."
+      ]
+    }
+  ],
+  "perspectives": {
+    "employer": [
+      "Wants predictability and HR alignment: choose deferred period to fit sick‑pay policy and budget.",
+      "Values insurer rehab/vocational support to reduce absence duration and improve outcomes.",
+      "Needs clear employee communications on offsets to avoid over‑payment expectations."
+    ],
+    "employee": [
+      "Needs to understand what they’ll actually receive at each stage (employer sick pay → state → insured benefit).",
+      "Values early intervention, occupational health, and phased return options supported by the insurer."
+    ],
+    "intermediary": [
+      "Designs integration rules, ensures policy wording reflects employer practice, and benchmarks insurers on rehab capability.",
+      "Educates HR/payroll on data and claims processes to minimise friction at the end of the deferment."
+    ],
+    "insurer": [
+      "Assesses incidence risk, manages claims/rehab pathways, and applies offsets consistently per wording.",
+      "Reports MI to employer on durations, causes, and return‑to‑work rates to guide benefit/HR policy tweaks."
+    ],
+    "largeCorporate": [
+      "May negotiate tailored offsets, enhanced rehab services, and integration with occupational health providers.",
+      "Seeks analytics on absence drivers to inform broader wellbeing strategy."
+    ]
+  }
+}

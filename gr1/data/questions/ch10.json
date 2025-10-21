@@ -1,0 +1,150 @@
+{
+  "chapter": "ch10",
+  "title": "Chapter 10 – Insurer Functions (Original MCQs)",
+  "questions": [
+    {
+      "id": 1001,
+      "stem": "Which combination BEST describes inputs to a group risk unit rate for GLA?",
+      "options": [
+        "Age profile, sums assured, industry mix, scheme design, and (where credible) claims experience",
+        "Interest rates, FX volatility, and broker commission only",
+        "Number of HR staff, payroll software, and employee satisfaction score",
+        "The trustees’ names and the insurer’s brand awareness"
+      ],
+      "answer": 0,
+      "explanation": "Pricing uses demographic risk, exposure, industry/occupation, design, and credible experience; other items listed are not core pricing drivers."
+    },
+    {
+      "id": 1002,
+      "stem": "Below the Free Cover Limit (FCL), which statement is MOST accurate?",
+      "options": [
+        "All members must provide full medicals.",
+        "Members are typically covered without individual evidence of health.",
+        "Only executives are covered.",
+        "Employees must pay the premium personally."
+      ],
+      "answer": 1,
+      "explanation": "FCL allows cover up to a per‑member threshold without medical underwriting; above it, evidence may be required."
+    },
+    {
+      "id": 1003,
+      "stem": "Which situation MOST likely triggers facultative reinsurance on a group life case?",
+      "options": [
+        "High total scheme headcount",
+        "A single member with a very large sum assured above treaty limits",
+        "A change from monthly to annual premium payments",
+        "Improved data quality from the employer"
+      ],
+      "answer": 1,
+      "explanation": "Very large individual sums can exceed treaty automatic acceptance and require facultative review."
+    },
+    {
+      "id": 1004,
+      "stem": "Which factor is LEAST likely to reduce an insurer’s quoted rate at renewal?",
+      "options": [
+        "Improved scheme claims experience over several years",
+        "Cleaner, timely membership data and fewer back‑dated adjustments",
+        "A shift toward hazardous occupations",
+        "A larger scheme with more credible exposure"
+      ],
+      "answer": 2,
+      "explanation": "More hazardous occupations increase expected claims and tend to worsen rates."
+    },
+    {
+      "id": 1005,
+      "stem": "Experience rating is MOST appropriate when:",
+      "options": [
+        "The scheme is small with no history",
+        "There is several years of credible claims and exposure data",
+        "Employees are mainly under age 25",
+        "The employer wants to remove all volatility"
+      ],
+      "answer": 1,
+      "explanation": "Experience rating relies on credible historic data and doesn’t remove volatility entirely."
+    },
+    {
+      "id": 1006,
+      "stem": "Which statement about actively‑at‑work (AAW) conditions is MOST accurate?",
+      "options": [
+        "AAW replaces all eligibility rules.",
+        "AAW confirms members are performing normal duties on key dates; it reduces anti‑selection risk.",
+        "AAW guarantees acceptance above the FCL.",
+        "AAW is set by reinsurers only and not by insurers."
+      ],
+      "answer": 1,
+      "explanation": "AAW is a common eligibility control to ensure members are actually working when cover attaches."
+    },
+    {
+      "id": 1007,
+      "stem": "A large scheme’s last 5 years show claims significantly below expected. Which outcome is MOST consistent with an experience‑rated renewal?",
+      "options": [
+        "Improved rate relative to pooled market base, adjusted for credibility",
+        "No change because past claims never influence pricing",
+        "Guaranteed reduction regardless of current risk mix",
+        "Rates must increase because the treaty requires it"
+      ],
+      "answer": 0,
+      "explanation": "Good experience usually supports sharper pricing, blended with a credibility factor to avoid over‑reacting."
+    },
+    {
+      "id": 1008,
+      "stem": "Which admin control MOST directly prevents premium drift from unreported joiners/leavers?",
+      "options": [
+        "Quarterly membership data audits and reconciliation",
+        "Annual claims satisfaction surveys",
+        "A longer rate guarantee period",
+        "Moving payroll to a new provider"
+      ],
+      "answer": 0,
+      "explanation": "Regular reconciliations keep exposure aligned to the premium basis and reduce adjustments."
+    },
+    {
+      "id": 1009,
+      "stem": "What is the usual effect of reinsurer catastrophe cover on an insurer’s portfolio?",
+      "options": [
+        "Increases retained tail risk",
+        "Reduces capital strain from extreme events and supports pricing stability",
+        "Eliminates the need for underwriting",
+        "Transfers all claims handling to the reinsurer"
+      ],
+      "answer": 1,
+      "explanation": "Catastrophe protection caps tail losses, supporting solvency and pricing stability; it doesn’t remove underwriting or claims handling."
+    },
+    {
+      "id": 1010,
+      "stem": "Which SLA metric is MOST relevant to employer satisfaction for group life claims?",
+      "options": [
+        "Number of site visits per year",
+        "Average claim payment turnaround once documentation is complete",
+        "Insurer social media engagement rate",
+        "Number of marketing emails sent"
+      ],
+      "answer": 1,
+      "explanation": "Timely claim payment is a key outcome metric for employers and beneficiaries."
+    },
+    {
+      "id": 1011,
+      "stem": "Why might an insurer blend pooled and experience rates using a credibility factor?",
+      "options": [
+        "To ensure the final rate equals the market average",
+        "To avoid over‑reacting to short‑term volatility when the data set is only partly credible",
+        "Because reinsurers prohibit using experience at all",
+        "To comply with trust law"
+      ],
+      "answer": 1,
+      "explanation": "Credibility weighting tempers randomness in limited data while recognising scheme‑specific experience."
+    },
+    {
+      "id": 1012,
+      "stem": "Which change is MOST likely to require an insurer to obtain a GP report or medical evidence?",
+      "options": [
+        "A member’s sum assured moves above the scheme’s FCL",
+        "The scheme switches payroll providers",
+        "The employer changes the rate guarantee from 2 to 3 years",
+        "The glossary definition of GLA is updated"
+      ],
+      "answer": 0,
+      "explanation": "Sums above FCL usually trigger individual underwriting requirements."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "ch04",
+  "title": "Taxation of Group Risk Benefits (UK 2024/25)",
+  "tags": ["tax", "HMRC", "P11D", "BIK", "GLA", "GIP", "corporation tax", "NIC"],
+  "keyFacts": [
+    "Income tax bands (rUK, 2024/25): Personal Allowance £12,570; basic 20% to £50,270; higher 40% to £125,140; additional 45% above £125,140 (Scotland differs).",
+    "Employee Class 1 NIC main rate 8% above the primary threshold (PT ≈ £12,570 annualised); employer Class 1 NIC 13.8% above the secondary threshold (rate reference).",
+    "Group Life (GLA) premiums paid by the employer for death‑in‑service are generally NOT a taxable benefit in kind for employees when structured under the s307 ITEPA exemption and typically do not go on P11D (check scheme/trust setup).",
+    "GLA benefits are usually paid via discretionary trust and normally outside the estate for IHT; payments to beneficiaries are ordinarily not subject to income tax.",
+    "Group Income Protection (GIP) premiums paid by the employer are usually NOT a taxable benefit in kind; however, the income replacement paid during a claim is typically taxable as earnings (subject to policy/payroll design).",
+    "Employer premiums are generally deductible for corporation tax where incurred wholly and exclusively for the trade; specific facts and policy purpose apply.",
+    "Class 1A NIC at 13.8% applies to most taxable benefits in kind reported on P11D; where s307 exemption applies (e.g., qualifying death‑in‑service), there is generally no Class 1A."
+  ],
+  "workedExamples": [
+    {
+      "title": "GLA – employer tax and employee tax position (principles)",
+      "steps": [
+        "Employer pays £12,000 annual premium for a registered group life policy set up under discretionary trust.",
+        "Employee: no P11D/BIK under s307 ITEPA (exemption for death benefits).",
+        "Employer: usually a deductible expense for corporation tax purposes.",
+        "On claim: lump sum paid from trust to beneficiaries; generally not subject to income tax and typically outside the estate for IHT."
+      ]
+    },
+    {
+      "title": "GIP – tax treatment at claim stage (2024/25 figures)",
+      "steps": [
+        "Salary £40,000 (≈ £3,333/month). GIP pays 60% of salary after deferment with offsets.",
+        "Monthly gross benefit target ≈ £2,000 before tax. Payments are usually taxed as earnings via PAYE; employee NICs may apply depending on payroll setup.",
+        "Net received depends on tax band after offsets. Basic‑rate example: ~20% income tax and 8% NIC main rate above PT slices."
+      ]
+    },
+    {
+      "title": "P11D and Class 1A NIC logic",
+      "steps": [
+        "Where a benefit is a taxable BIK, employer reports on P11D and pays Class 1A NIC at 13.8%.",
+        "Death‑in‑service arrangements qualifying for s307 are generally not BIKs, so no P11D/Class 1A is due on the premium (contrast with non‑qualifying personal life cover paid by the employer)."
+      ]
+    }
+  ],
+  "perspectives": {
+    "employer": [
+      "Seeks corporation tax deductibility and clarity on when P11D/Class 1A applies.",
+      "Wants robust trust/wording to ensure death‑in‑service qualifies under s307 and remains outside the estate."
+    ],
+    "employee": [
+      "Values that GLA premiums are not a BIK and that lump‑sum benefits are usually tax‑free to recipients.",
+      "Understands that GIP income during claim is taxable as earnings, so take‑home may be below the nominal percentage."
+    ],
+    "intermediary": [
+      "Advises on trust setup, s307 applicability, payroll design for GIP at claim, and clear communications about net vs gross payments."
+    ],
+    "insurer": [
+      "Provides guidance notes on tax treatment, designs policy terms to align with employer payroll and HMRC practice, and supports trust documentation for GLA."
+    ],
+    "largeCorporate": [
+      "Coordinates tax, payroll, and benefits teams; may need bespoke guidance across jurisdictions and for executive populations."
+    ]
+  }
+}

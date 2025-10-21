@@ -1,0 +1,64 @@
+{
+  "id": "ch10",
+  "title": "Insurer Functions – Pricing, Underwriting, Administration, and Claims",
+  "tags": ["insurer", "pricing", "underwriting", "claims", "admin", "reinsurance"],
+  "keyFacts": [
+    "Insurers price group risk using demographic risk, scheme design, industry/occupation mix, and (where available) scheme claims experience.",
+    "Two common rating styles: unit-rated (smaller schemes, pooled) and experience-rated (larger schemes with credible history).",
+    "Underwriting: below the Free Cover Limit (FCL) members are usually covered without medical evidence; above FCL, individual evidence may be required.",
+    "Administration covers data validation, joiners/leavers processing, premium adjustments, and continuous eligibility checks (e.g., actively-at-work).",
+    "Claims handling prioritises timely verification, trust documentation (for GLA), and fair outcomes; reinsurers may be notified for large sums assured.",
+    "Reinsurance supports capacity, catastrophe protection, and pricing stability (treaties, stop-loss, facultative for large cases)."
+  ],
+  "workedExamples": [
+    {
+      "title": "Indicative pricing logic (conceptual)",
+      "steps": [
+        "Start with a base mortality/incidence table matched to the scheme demographic.",
+        "Apply adjustments for industry risk (e.g., hazardous occupations) and benefit design (e.g., higher multiples, eligibility).",
+        "Incorporate scheme size/credibility: move from pooled rates toward experience-weighted rates as data becomes credible.",
+        "Add loadings: expenses, commission/fees, profit/risk margin; reflect reinsurance terms and catastrophe costs.",
+        "Quote as a unit rate per £1,000 sum assured (GLA) or per member (IP/CI variants), with a rate guarantee period (often 2 years)."
+      ]
+    },
+    {
+      "title": "Underwriting thresholds and evidence of health",
+      "steps": [
+        "Define a Free Cover Limit (FCL): total benefit up to which no individual medical evidence is required.",
+        "For sums above FCL, request evidence (questionnaires, GP reports, medicals) and apply terms (accept/ratings/exclusions).",
+        "Actively‑at‑work and eligibility checks ensure only eligible, working members are covered on key dates (e.g., scheme start)."
+      ]
+    },
+    {
+      "title": "Experience rating (large scheme sketch)",
+      "steps": [
+        "Collect 3–5 years of claims and exposure data (paid + incurred, sums assured, membership).",
+        "Calculate expected claims using standard tables; compare to actual to derive an experience ratio.",
+        "Blend experience with pooled base (credibility factor) to avoid overreacting to short-term volatility." 
+      ]
+    }
+  ],
+  "perspectives": {
+    "employer": [
+      "Reliable, clean data reduces friction, improves quotes, and prevents back‑billing adjustments.",
+      "Wants clear SLAs for claims turnaround, scheme changes, and member queries; values MI dashboards.",
+      "Needs clarity on evidence-of-health processes to communicate to employees and avoid delays."
+    ],
+    "employee": [
+      "Seeks simple processes with minimal intrusive underwriting; values confidentiality and speed on claims.",
+      "Needs clear guidance on eligibility and what to do when life events change coverage (e.g., salary changes)."
+    ],
+    "intermediary": [
+      "Validates assumptions and quotes, challenges loadings, and coordinates market reviews/retenders.",
+      "Monitors performance vs SLAs, escalates issues, and manages data quality with the employer."
+    ],
+    "insurer": [
+      "Balances competitive pricing with sustainability; calibrates underwriting rules and liaises with reinsurers.",
+      "Invests in admin platforms to reduce errors and improve turnaround for joiners/leavers and claims."
+    ],
+    "largeCorporate": [
+      "Requests bespoke MI, quarterly experience reports, and flexible terms (e.g., extended FCLs, tailored eligibility).",
+      "May use multinational pooling or captives to stabilise cost and align global governance."
+    ]
+  }
+}

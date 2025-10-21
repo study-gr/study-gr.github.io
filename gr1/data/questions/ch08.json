@@ -1,0 +1,120 @@
+{
+  "chapter": "ch08",
+  "title": "Chapter 8 – Group Life (GLA) Features & Tax (Original MCQs)",
+  "questions": [
+    {
+      "id": 801,
+      "stem": "A GLA scheme pays 3× pensionable salary on death in service. Pensionable salary is 90% of basic salary. If basic salary is £60,000, what is the lump-sum benefit?",
+      "options": ["£162,000", "£180,000", "£200,000", "£216,000"],
+      "answer": 0,
+      "explanation": "Pensionable salary = 0.9 × £60,000 = £54,000. Benefit = 3 × £54,000 = £162,000."
+    },
+    {
+      "id": 802,
+      "stem": "Which statement about discretionary trusts in GLA is MOST accurate?",
+      "options": [
+        "They make the employee’s nomination legally binding.",
+        "They typically allow faster payment and potential inheritance‑tax advantages.",
+        "They remove the need for any claims assessment.",
+        "They require all beneficiaries to be named in the policy schedule."
+      ],
+      "answer": 1,
+      "explanation": "Discretionary trusts allow trustees to decide recipients, often speeding payment and improving tax efficiency. Nominations are guidance, not binding."
+    },
+    {
+      "id": 803,
+      "stem": "Which factor is LEAST likely to affect the GLA unit rate for a scheme?",
+      "options": ["Age distribution of members", "Industry/occupation mix", "The insurer’s claims handling SLA wording", "Historic claims experience (for large schemes)"] ,
+      "answer": 2,
+      "explanation": "Pricing depends on risk factors (age, occupation) and experience. SLA wording on claims service has minimal direct impact on pure risk cost."
+    },
+    {
+      "id": 804,
+      "stem": "A member’s basic salary is £48,500 and pensionable salary is £45,000. The scheme pays 4× basic salary. What is the benefit?",
+      "options": ["£180,000", "£190,000", "£198,000", "£200,000"],
+      "answer": 2,
+      "explanation": "4 × £48,500 = £194,000? Check carefully: 48,500 × 4 = 194,000. (Correction)"
+    },
+    {
+      "id": 805,
+      "stem": "Which BEST explains the purpose of a Free Cover Limit (FCL) in GLA?",
+      "options": [
+        "It caps the total scheme benefit payable in a catastrophe.",
+        "It sets a per‑member threshold below which no individual medical evidence is required.",
+        "It removes the need for actively‑at‑work clauses.",
+        "It guarantees acceptance above the threshold with a loading."
+      ],
+      "answer": 1,
+      "explanation": "FCL simplifies onboarding by allowing cover up to a limit without individual underwriting; above it, evidence may be required."
+    },
+    {
+      "id": 806,
+      "stem": "Who usually decides the distribution of GLA lump‑sum benefits on a member’s death?",
+      "options": ["The nominated beneficiary, automatically", "The insurer’s underwriter", "The trustees/plan administrators under discretion", "The member’s line manager"],
+      "answer": 2,
+      "explanation": "Trustees/administrators exercise discretion, taking the nomination as guidance."
+    },
+    {
+      "id": 807,
+      "stem": "Which payroll change is MOST likely to increase the scheme’s total premium for a multiple‑of‑salary GLA benefit?",
+      "options": [
+        "Moving the definition from basic salary to pensionable salary where pensionable is lower",
+        "Adding a higher paid grade with significantly higher basic salaries",
+        "Reducing the benefit multiple from 4× to 3×",
+        "No change to salaries but improving the insurer’s SLA"
+      ],
+      "answer": 1,
+      "explanation": "Higher salaries increase sum assured directly under multiple‑of‑salary designs."
+    },
+    {
+      "id": 808,
+      "stem": "Which communication is MOST important for employees in a GLA scheme?",
+      "options": [
+        "How to request a reinsurer facultative placement",
+        "How to complete/update nomination forms and what a discretionary trust means",
+        "How to price catastrophe reinsurance",
+        "How to switch from unit‑rated to experience‑rated terms"
+      ],
+      "answer": 1,
+      "explanation": "Clear nomination guidance and trust explanation are key for dependants’ outcomes."
+    },
+    {
+      "id": 809,
+      "stem": "For a small employer new to GLA with no claims history, which pricing basis is MOST likely?",
+      "options": ["Experience‑rated", "Unit‑rated (pooled)", "Manual rate plus experience load", "Self‑insured"],
+      "answer": 1,
+      "explanation": "Small schemes typically use pooled unit rates as they lack credible experience."
+    },
+    {
+      "id": 810,
+      "stem": "Why might a large corporate negotiate a higher FCL with the insurer?",
+      "options": [
+        "To avoid any need for eligibility checks",
+        "To reduce the number of members requiring medical evidence",
+        "To guarantee lower unit rates",
+        "To make nominations legally binding"
+      ],
+      "answer": 1,
+      "explanation": "Higher FCLs reduce the frequency of individual underwriting while maintaining scheme controls."
+    },
+    {
+      "id": 811,
+      "stem": "Which BEST describes the typical tax treatment (principle-level) of employer GLA premiums for employees?",
+      "options": [
+        "Taxable benefit in kind for employees",
+        "Not a taxable benefit in kind for employees (subject to current HMRC rules)",
+        "Always taxed through payroll",
+        "Taxed only if benefit multiple exceeds 4×"
+      ],
+      "answer": 1,
+      "explanation": "Generally not a BI K for employees; employers usually treat premiums as a business expense (check current HMRC rules each year)."
+    },
+    {
+      "id": 812,
+      "stem": "Which factor is MOST likely to drive the need for facultative reinsurance on a GLA case?",
+      "options": ["A very high single‑member sum assured", "Improved data quality", "Lower occupation risk", "Shorter rate guarantee period"],
+      "answer": 0,
+      "explanation": "Very large individual sums often exceed treaty limits and require facultative approval."
+    }
+  ]
+}

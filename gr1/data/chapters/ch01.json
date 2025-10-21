@@ -1,0 +1,53 @@
+{
+  "id": "ch01",
+  "title": "The UK Group Risk Market – Purpose, Players, and Structures",
+  "tags": ["market", "participants", "group life", "group IP", "group CI", "captives", "pooling"],
+  "keyFacts": [
+    "Group risk commonly includes Group Life Assurance (GLA), Group Income Protection (IP), and Group Critical Illness (CI).",
+    "Employers are the policyholders. Members are employees (and sometimes partners); beneficiaries vary by product (e.g., trusts for GLA).",
+    "Most schemes are insured. Larger employers may self-insure elements or use captives/multinational pooling to manage cost and volatility.",
+    "Market cycle drivers: demographics, incidence/mortality trends, inflation/claims inflation, reinsurance capacity, and regulation.",
+    "Distribution is intermediary-led: consultants/brokers design schemes, tender to insurers, and manage ongoing governance and admin."
+  ],
+  "workedExamples": [
+    {
+      "title": "Scheme structure choices: insured vs self-insured vs hybrid",
+      "steps": [
+        "Insured: Premium paid to insurer. Exposure transferred for low-frequency/high-severity losses; predictable budgeting via unit rates.",
+        "Self-insured: Employer funds benefits; potential savings if experience is favourable, but retains volatility and governance burden.",
+        "Hybrid: Experience-rated deal or captive with stop‑loss/catastrophe reinsurance to cap tail risk while retaining day‑to‑day risk."
+      ]
+    },
+    {
+      "title": "Multinational pooling (conceptual)",
+      "steps": [
+        "Combine country-level contracts into a pool with a network/reinsurer.",
+        "Share experience and potentially receive a pool dividend if claims are better than expected.",
+        "Benefits: oversight, potential savings, and consistency; trade-offs: admin complexity and data quality requirements."
+      ]
+    }
+  ],
+  "perspectives": {
+    "employer": [
+      "Objectives: predictable cost, competitive benefits, compliance, and talent attraction/retention.",
+      "Data quality (eligibility, salaries, joiners/leavers) strongly influences pricing and service.",
+      "Governance: monitor value for money, claims experience, and insurer service against SLAs."
+    ],
+    "employee": [
+      "Access to valuable cover often without full medical underwriting due to free cover limits and actively‑at‑work rules.",
+      "Needs clear communications: what is covered, exclusions, how to nominate beneficiaries (for GLA)."
+    ],
+    "intermediary": [
+      "Advises on design (benefit basis, eligibility, waiting periods), markets the risk, benchmarks unit rates/terms, and manages renewals.",
+      "Ensures compliance, governance reporting, and coordination of implementation and ongoing admin."
+    ],
+    "insurer": [
+      "Underwrites scheme risk based on demographics, sums assured, industry, and claims experience; sets FCLs and evidence‑of‑health rules.",
+      "Coordinates reinsurance, pricing sustainability, claims handling, and scheme administration."
+    ],
+    "largeCorporate": [
+      "May negotiate bespoke terms, tiered benefits by grade, global alignment, or pooling/captive solutions to optimise cost and control.",
+      "Seeks analytics and regular experience reviews to steer design changes."
+    ]
+  }
+}
